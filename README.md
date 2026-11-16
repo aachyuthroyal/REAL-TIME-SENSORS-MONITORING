@@ -102,6 +102,8 @@ TEMP: 32 C
 LIGHT: 45%
 VTG: 3.1%
 VIBRATIONS: YES -> ALERT!
-FLAME: NO🚨 Alarm ConditionsConditionActionTemp > ThresholdLED ON + Buzzer ONFlame DetectedLED ON + Buzzer ONVibration DetectedLED Blink + Buzzer ONNormalLED OFF, Buzzer OFF🎯 Applications
-Industrial Safety MonitoringFire & Vibration Detection SystemSmart Environment MonitoringEmbedded Systems / RTOS Learning ProjectLab Sensor Station🔮 Future Scope
+FLAME: NO🚨 Alarm ConditionsConditionActionTemp > ThresholdLED ON + Buzzer ONFlame DetectedLED ON + Buzzer ONVibration DetectedLED Blink + Buzzer ONNormalLED OFF, Buzzer OFF
+🎯 Applications
+Industrial Safety MonitoringFire & Vibration Detection SystemSmart Environment MonitoringEmbedded Systems / RTOS Learning ProjectLab Sensor Station
+🔮 Future Scope
 IoT Cloud DashboardSD Card Data LoggingWireless Monitoring (ESP8266 / Bluetooth)FreeRTOS Porting
