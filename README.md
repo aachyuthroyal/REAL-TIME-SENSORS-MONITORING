@@ -47,21 +47,7 @@ TEMP SENSOR ─┐
 4.  **Local Alarm Output:** Controls status LED and buzzer on GPIO to give immediate warnings when limits are crossed.
 
 ---
-
-## 🛠️ Hardware Used
-
-| Component | Description |
-| :--- | :--- |
-| **LPC2129** | ARM7TDMI-S Based Microcontroller |
-| **Temp Sensor** | LM35 / Thermistor - Analog |
-| **LDR Sensor** | Light Intensity - Analog |
-| **Potentiometer** | Variable Voltage - Analog (ADC) |
-| **Vibration Sensor** | Digital - Vibration Detection |
-| **Flame Sensor** | Digital - Flame Detection |
-| **LED / Buzzer** | Local Alarm Output - GPIO |
-| **UART Cable** | LPC2129 to PC Communication |
-
----
+.
 
 ## 💻 Software / Tools Used
 
