@@ -9,7 +9,15 @@
 ---
 *LPC2129 Sensor Station* monitors 5 sensor inputs continuously without blocking.
 Each sensor is sampled periodically by the scheduler, safety limits are checked, and data is sent to a Computer via UART.
-## 🛠️ Hardware Used
+## 📌 Project Overview
+
+**LPC2129 Sensor Station** monitors 5 sensor inputs continuously without blocking.
+Each sensor is sampled periodically by the scheduler, safety limits are checked, and data is sent to a Computer via UART.
+
+No `delay()` - All tasks run on fixed time periods.
+
+---
+
 
 | Component | Description |
 | :--- | :--- |
