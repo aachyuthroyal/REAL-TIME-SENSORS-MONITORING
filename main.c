@@ -15,8 +15,7 @@ config_vic();
 timer0_init();
 
 while(1){
-if(flag)
-{
+
 if(flag==1)
 {
 vout=adc_read(2);
@@ -66,4 +65,4 @@ uart0_tx_string("OFF");
 }
 }
 
-}
+
